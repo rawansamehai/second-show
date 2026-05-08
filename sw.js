@@ -1,9 +1,9 @@
-const CACHE_NAME = 'second-show-v7';
+const CACHE_NAME = 'second-show-v8';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/site.webmanifest',
-  '/images/logo/final-app-logo.png?v=7'
+  '/second-show/',
+  '/second-show/index.html',
+  '/second-show/site.webmanifest',
+  '/second-show/images/logo/final-app-logo.png?v=8'
 ];
 
 self.addEventListener('install', (event) => {
